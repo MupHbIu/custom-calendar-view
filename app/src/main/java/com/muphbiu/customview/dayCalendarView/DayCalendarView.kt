@@ -205,8 +205,8 @@ class DayCalendarView(
         }
         if (isInEditMode) {
             adapter = Adapter.DEFAULT.apply {
-                // testEvents: Map<Int, List<DayCalendarView.Event>>
-                setEvents(DayCalendarViewData.testEvents)
+                // events: Map<Int, List<DayCalendarView.Event>> or List<DayCalendarView.Event>
+                setEvents(DayCalendarViewEditModeData.events)
                 title = "S U N D A Y"
             }
         }
