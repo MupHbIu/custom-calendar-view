@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DayCalendarView">
+        <attr name="titleHeight" format="dimension" />
+        <attr name="timeLineWidth" format="dimension" />
+        <attr name="titleBackgroundColor" format="color" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="eventBackgroundDefaultColor" format="color" />
+        <attr name="eventTextColor" format="color" />
+        <attr name="eventTextSize" format="dimension" />
+        <attr name="eventCornerRadius" format="dimension" />
+        <attr name="timeLineColor" format="color" />
+        <attr name="timeLineSize" format="dimension" />
+    </declare-styleable>
+
+    <attr name="dayCalendarStyle" format="reference" />
+
+</resources>

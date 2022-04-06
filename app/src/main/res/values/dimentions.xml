@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dayCalendarTitleTextSize">14sp</dimen>
+    <dimen name="dayCalendarTitleHeight">30dp</dimen>
+    <dimen name="dayCalendarMinTitleWidth">20dp</dimen>
+    <dimen name="dayCalendarEventTextSize">7sp</dimen>
+    <dimen name="dauCalendarMinEventWidth">20dp</dimen>
+    <dimen name="dayCalendarEventCornerRadius">3dp</dimen>
+    <dimen name="dayCalendarTimeLineSize">1dp</dimen>
+    <dimen name="dayCalendarTimeLineWidth">10dp</dimen>
+</resources>
